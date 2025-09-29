@@ -1,0 +1,40 @@
+[
+  {
+    "title": {
+      "korean": "사내 공용 시설 사용 수칙",
+      "vietnamese": "Quy tắc sử dụng cơ sở vật chất chung trong công ty"
+    },
+    "data": [
+      {
+        "korean": "회사에는 휴게실이나 구내식당, 체력단련실 등 여러 사람들이 함께 이용하는 편의 시설이 있습니다. 이런 시설을 사용할 때는 다른 사람들에게 불쾌감을 주지 않도록 주의해야 합니다. 혼자서 긴 소파를 차지하고 누워 있거나 발을 의자나 테이블 위에 올려놓는 일, 이어폰을 끼지 않고 스마트폰으로 방송을 보는 것은 예의에 어긋난 행동입니다. 식당 밖에서는 냄새가 많이 나는 음식물을 먹지 않도록 하고, 시설을 사용한 후에는 다른 사람들을 위해 깨끗이 치워 놓는 것이 좋습니다. 또 사람이 없을 때는 전등이나 냉·난방기를 켜 두지 말아야 합니다.",
+        "vietnamese": "Trong công ty có các cơ sở tiện ích mà nhiều người cùng sử dụng như phòng nghỉ, nhà ăn nội bộ hay phòng rèn luyện thể lực. Khi sử dụng những cơ sở tiện ích này, bạn phải chú ý để không gây khó chịu cho người khác. Việc nằm dài một mình trên sofa, đặt chân lên ghế hoặc bàn, hoặc xem phát sóng bằng điện thoại mà không dùng tai nghe là những hành động trái phép lịch sự. Không nên ăn những món có mùi ngoài khu vực nhà ăn. Sau khi sử dụng cơ sở vật chất, bạn nên dọn dẹp sạch sẽ. Ngoài ra, khi không có người, không nên bật đèn hoặc thiết bị điều hòa."
+      },
+      {
+        "korean": "잠깐씩 사용하는 회사 내 시설과 달리 기숙사는 회사 동료들과 늘 함께 지내는 생활 공간입니다. 기숙사에는 개인 공간 이외에도 세탁실이나 샤워실, 휴게실, 주방 등 공용 시설이 있습니다. 공용 시설을 사용할 때는 사용 규칙을 잘 지키고 항상 청결하게 사용해야 합니다. 또한 늦은 시간에는 텔레비전이나 음악 소리를 작게 하고 세탁실이나 샤워실은 사용하지 않는 것이 좋습니다. 특히 서로 다른 문화적 배경을 가진 사람들과 어울려 살 경우에는 상대방의 문화를 존중하는 태도가 필요합니다.",
+        "vietnamese": "Khác với các cơ sở tiện ích trong công ty chỉ dùng chốc lát, ký túc xá là không gian sinh hoạt chung với đồng nghiệp. Ở ký túc xá, ngoài không gian cá nhân còn có các cơ sở tiện ích chung như phòng giặt, phòng tắm, phòng nghỉ, bếp. Khi sử dụng các cơ sở này, bạn phải tuân thủ quy tắc và giữ gìn vệ sinh. Ngoài ra, nên giảm âm lượng TV hoặc nhạc vào giờ muộn và không dùng phòng giặt hay phòng tắm. Đặc biệt, khi sống chung với người có bối cảnh văn hóa khác nhau, cần tôn trọng văn hóa của họ."
+      }
+    ],
+    "voca": {
+      "사내": "Nội bộ công ty, trong công ty",
+      "시설": "Trang thiết bị, công trình",
+      "휴게실": "Phòng nghỉ",
+      "체력단련실": "Phòng huấn luyện thể lực, phòng gym",
+      "차지하다": "Chiếm, nắm giữ",
+      "눕다": "Nằm",
+      "올려놓다": "Đặt lên",
+      "이어폰": "Tai nghe",
+      "끼다": "Đeo, cài",
+      "방송을 보다": "Xem truyền hình",
+      "예의": "Phép lịch sự, lễ nghĩa",
+      "어긋나다": "Trái ngược, lệch",
+      "전등": "Đèn điện, bóng đèn",
+      "냉·난방기": "Thiết bị điều hòa hai chiều",
+      "켜다": "Bật, mở",
+      "잠깐씩": "Một lát, một chốc",
+      "청결하다": "Sạch sẽ, gọn gàng",
+      "특히": "Đặc biệt",
+      "문화적": "Mang tính văn hóa",
+      "배경을 가지다": "Có nền tảng, có bối cảnh"
+    }
+  }
+]

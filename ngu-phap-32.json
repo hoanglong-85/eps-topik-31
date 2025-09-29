@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-잖아요",
+  "loai": "동사/형용사 + -잖아요",
+  "ynghia": "-잖아요 được gắn vào động từ hoặc tính từ để nhấn mạnh, xác nhận điều mà người nói cho rằng người nghe đương nhiên đã biết. Khi dùng trong câu hỏi, nó thể hiện mong muốn người nghe đồng tình với suy nghĩ của người nói.",
+  "vidu": [
+    {"cau": "밤에는 세탁기를 돌리지 마세요. 시끄럽잖아요.", "nghia": "Ban đêm đừng giặt đồ. Ồn mà, bạn cũng biết mà."},
+    {"cau": "좀 이따 나갈까요? 퇴근 시간에는 사람이 많잖아요.", "nghia": "Chúng ta ra ngoài chút nữa nhé? Giờ tan ca đông người mà."},
+    {"cau": "가 : 반장님이 안 보이시네요.\n나 : 아까 창고에 가셨잖아요.", "nghia": "A: Không thấy tổ trưởng nhỉ.\nB: Lúc nãy đã đi đến kho rồi mà."},
+    {"cau": "가 : 늦으면 전화해야 되잖아요?\n나 : 네, 맞아요.", "nghia": "A: Muộn thì phải gọi điện chứ, đúng không?\nB: Vâng, đúng rồi."}
+  ],
+  "luat": "Gắn -잖아요 vào gốc động/tính từ để xác nhận thông tin mà người nghe đương nhiên biết. Trong câu hỏi, thể hiện kỳ vọng người nghe đồng ý. Ví dụ: 춥다 → 춥잖아요 (Lạnh mà), 가다 → 가잖아요 (Đi rồi mà)."
+},
+{
+  "nguphap": "-아/어 놓다",
+  "loai": "타동사 + -아/어 놓다",
+  "ynghia": "-아/어 놓다 được gắn vào ngoại động từ để diễn tả hành động đã hoàn thành và kết quả của hành động đó vẫn được giữ nguyên sau khi thực hiện.",
+  "vidu": [
+    {"cau": "밥을 먹은 후에 식탁을 닦아 놓았어요.", "nghia": "Sau khi ăn cơm, tôi đã lau bàn và bàn vẫn sạch."},
+    {"cau": "식사 후에는 창문을 좀 열어 놓으세요.", "nghia": "Sau bữa ăn, hãy mở cửa sổ ra và để nó mở."},
+    {"cau": "고향에 가려고 비행기 표를 예약해 놓았어요.", "nghia": "Tôi đã đặt vé máy bay để về quê và vẫn giữ nguyên tình trạng đặt."}
+  ],
+  "luat": "Động từ kết thúc bằng ㅏ, ㅗ + 아 놓다 (사다 → 사 놓다). Động từ kết thúc bằng nguyên âm khác + 어 놓다 (열다 → 열어 놓다). Với 하다 → 해 놓다. Chỉ dùng với **ngoại động từ** (타동사) để nhấn mạnh kết quả của hành động vẫn duy trì."
+}]

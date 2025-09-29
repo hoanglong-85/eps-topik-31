@@ -1,0 +1,102 @@
+[
+    {
+        "audio": "hoi-thoai-32-1.mp3",
+        "hinhanh": "hoi-thoai-32-1.jpg",
+        "hoithoai": [
+            {
+                "speaker": "아궁",
+                "korean": "아미나 씨, 기숙사 생활이 어때요? 저도 기숙사로 이사하고 싶어요.",
+                "vietnamese": "Amina, cuộc sống ở ký túc xá như thế nào? Tôi cũng muốn chuyển đến ký túc xá."
+            },
+            {
+                "speaker": "아미나",
+                "korean": "왜요? 원룸에서 사는 게 안 좋아요?",
+                "vietnamese": "Sao vậy? Bạn không thích sống ở căn hộ một phòng à?"
+            },
+            {
+                "speaker": "아궁",
+                "korean": "좋은데 월세가 비싸서요. 그런데 기숙사는 방을 다른 사람과 함께 사용해야 되지요?",
+                "vietnamese": "Tôi thích nhưng tiền thuê quá đắt. Nhưng ở ký túc xá phải dùng phòng chung với người khác, đúng không?"
+            },
+            {
+                "speaker": "아미나",
+                "korean": "아니요. 우리 기숙사는 방을 혼자 써요. 조리실과 세탁실은 공용이고요.",
+                "vietnamese": "Không, ở ký túc xá chúng tôi dùng phòng riêng. Nhà bếp và giặt giũ là chung."
+            },
+            {
+                "speaker": "아궁",
+                "korean": "기숙사는 좀 불편하지요?",
+                "vietnamese": "Sống ở ký túc xá có hơi bất tiện đúng không?"
+            },
+            {
+                "speaker": "아미나",
+                "korean": "불편하지는 않지만 지켜야 되는 규칙이 있어요. 기숙사에서는 여러 사람이 함께 생활하잖아요.",
+                "vietnamese": "Không bất tiện nhưng có những quy tắc phải tuân theo. Vì nhiều người sống cùng nhau ở ký túc xá mà."
+            }
+        ],
+        "questions": [
+            {
+                "korean_question": "아궁 씨는 왜 기숙사로 이사하고 싶어 해요?",
+                "vietnamese_question": "Tại sao Agung muốn chuyển đến ký túc xá?",
+                "korean_answer": "월세가 비싸서 기숙사로 이사하고 싶어 해요.",
+                "vietnamese_answer": "Vì tiền thuê căn hộ đắt, nên Agung muốn chuyển đến ký túc xá."
+            },
+            {
+                "korean_question": "아미나 씨는 다른 사람과 함께 기숙사 방을 사용해요?",
+                "vietnamese_question": "Amina có dùng phòng ký túc xá chung với người khác không?",
+                "korean_answer": "아니요, 방은 혼자 써요.",
+                "vietnamese_answer": "Không, cô ấy dùng phòng riêng."
+            }
+        ]
+    },
+    {
+        "audio": "hoi-thoai-32-2.mp3",
+        "hinhanh": "hoi-thoai-32-2.jpg",
+        "hoithoai": [
+    {
+      "speaker": "반장님",
+      "korean": "점심시간인데 밥 먹으러 갈까요?",
+      "vietnamese": "Đã đến giờ ăn trưa, chúng ta đi ăn nhé?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "저는 오늘 도시락을 싸 왔어요. 고향 음식이 먹고 싶어서요.",
+      "vietnamese": "Hôm nay tôi mang cơm hộp theo, vì muốn ăn món ăn quê hương."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그럼 맛있게 드세요. 오늘은 우리끼리 먹고 올게요. 내일은 구내식당에 삼계탕이 나오니까 같이 먹어요.",
+      "vietnamese": "Vậy thì ăn ngon nhé. Hôm nay chúng tôi sẽ đi ăn riêng. Ngày mai sẽ có samgyetang ở căng tin, cùng ăn nhé."
+    },
+    {
+      "speaker": "아궁",
+      "korean": "저도 삼계탕 좋아해요. 맛있게 드시고 오세요.",
+      "vietnamese": "Tôi cũng thích samgyetang. Ăn ngon nhé."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "마두 씨, 점심 먹으러 갈까요? 식권은 사 놓았어요?",
+      "vietnamese": "Madhu, đi ăn trưa thôi. Bạn đã mua vé ăn chưa?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "아니요, 지금 식당에 가서 사야 돼요.",
+      "vietnamese": "Chưa, bây giờ phải đi căng tin mua."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "오늘 아궁 씨는 왜 구내식당에서 점심을 안 먹어요?",
+      "vietnamese_question": "Tại sao hôm nay Agung không ăn trưa ở căng tin?",
+      "korean_answer": "오늘 고향 음식을 먹고 싶어서 도시락을 싸 왔어요.",
+      "vietnamese_answer": "Hôm nay Agung muốn ăn món ăn quê hương nên mang cơm hộp theo."
+    },
+    {
+      "korean_question": "내일 구내식당에서는 무슨 음식을 먹을 수 있어요?",
+      "vietnamese_question": "Ngày mai có thể ăn món gì ở căng tin?",
+      "korean_answer": "내일 구내식당에서는 삼계탕을 먹을 수 있어요.",
+      "vietnamese_answer": "Ngày mai sẽ có thể ăn samgyetang ở căng tin."
+    }
+  ]
+    }
+]
