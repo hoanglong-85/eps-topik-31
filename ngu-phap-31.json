@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-아/어 보이다",
+  "loai": "형용사 + -아/어 보이다",
+  "ynghia": "-아/어 보이다 chủ yếu gắn với tính từ, diễn tả cảm giác hoặc phỏng đoán rằng sự việc/đối tượng trông có vẻ ở một trạng thái nào đó.",
+  "vidu": [
+    {"cau": "작업복이 좀 작아 보이는데 불편하지 않아요?", "nghia": "Đồng phục trông có vẻ hơi chật, không khó chịu sao?"},
+    {"cau": "필요 없는 물건을 치우니까 방이 넓어 보여요.", "nghia": "Dọn bớt đồ không cần thiết nên phòng trông rộng ra."},
+    {"cau": "단추를 잠그니까 단정해 보이네요.", "nghia": "Cài khuy áo vào nên trông gọn gàng nhỉ."}
+  ],
+  "luat": "Nếu nguyên âm gốc là ㅏ hoặc ㅗ thì dùng -아 보이다 (좋다 → 좋아 보이다), các nguyên âm khác dùng -어 보이다 (맛있다 → 맛있어 보이다), còn động/tính từ với 하다 dùng -해 보이다 (편하다 → 편해 보이다)."
+},
+{
+  "nguphap": "-게",
+  "loai": "형용사 + -게",
+  "ynghia": "-게 chủ yếu gắn với tính từ, diễn tả mức độ hoặc cách thức của hành động xảy ra ở mệnh đề sau.",
+  "vidu": [
+    {"cau": "칼로 씨는 항상 성실하게 일하네요.", "nghia": "Anh Carlo lúc nào cũng làm việc một cách chăm chỉ nhỉ."},
+    {"cau": "배가 고파서 점심을 아주 맛있게 먹었어요.", "nghia": "Đói bụng nên đã ăn trưa rất ngon miệng."},
+    {"cau": "머리를 너무 짧게 잘랐지요?", "nghia": "Bạn đã cắt tóc quá ngắn phải không?"},
+    {"cau": "단정해 보여서 좋은데요.", "nghia": "Trông gọn gàng nên mình thấy đẹp đấy."}
+  ],
+  "luat": "Gắn -게 vào gốc tính từ để biến thành trạng từ, mô tả mức độ hoặc cách thức của hành động ở mệnh đề sau. Ví dụ: 빠르다 → 빠르게 (nhanh chóng), 조용하다 → 조용하게 (một cách yên tĩnh)."
+}]

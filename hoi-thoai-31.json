@@ -1,0 +1,99 @@
+
+[
+{
+  "audio": "hoi-thoai-31-1.mp3",
+  "hinhanh": "hoi-thoai-31-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "반장님",
+      "korean": "칼로 씨, 새 작업복이 마음에 들어요?",
+      "vietnamese": "Carlo, bạn có thích bộ đồng phục mới không?"
+    },
+    {
+      "speaker": "칼로",
+      "korean": "네, 반장님. 새 작업복이 예전 작업복보다 가벼워서 좋네요.",
+      "vietnamese": "Vâng, thưa trưởng nhóm. Bộ đồng phục mới nhẹ hơn bộ cũ nên tôi thích."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그렇지요? 그리고 지퍼를 목까지 올릴 수 있어서 작업할 때 안전해요.",
+      "vietnamese": "Đúng không? Và vì có thể kéo khóa lên tới cổ nên khi làm việc sẽ an toàn."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "그런데 지퍼를 조금만 내리고 작업해도 돼요? 좀 불편해서요.",
+      "vietnamese": "Nhưng tôi có thể kéo khóa xuống một chút khi làm việc không? Nó hơi khó chịu."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "지퍼를 올리는 게 안전하고 단정해 보여요. 익숙해지면 괜찮을 거예요.",
+      "vietnamese": "Kéo khóa lên sẽ an toàn và trông gọn gàng. Khi quen thì sẽ ổn thôi."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "네, 알겠습니다.",
+      "vietnamese": "Vâng, tôi hiểu rồi."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "새 작업복이 어때요?",
+      "vietnamese_question": "Bộ đồng phục mới như thế nào?",
+      "korean_answer": "예전 작업복보다 가벼워서 좋아요.",
+      "vietnamese_answer": "Nhẹ hơn bộ cũ nên rất tốt."
+    },
+    {
+      "korean_question": "왜 작업복의 지퍼를 올려야 해요?",
+      "vietnamese_question": "Tại sao cần kéo khóa đồng phục lên?",
+      "korean_answer": "작업할 때 안전하고 단정해 보여요.",
+      "vietnamese_answer": "Vì khi làm việc sẽ an toàn và trông gọn gàng."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-31-2.mp3",
+  "hinhanh": "hoi-thoai-31-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "공장장님",
+      "korean": "마두 씨, 요즘 우리 공장이 일이 많은데 힘들지 않아요?",
+      "vietnamese": "Madhu, dạo này nhà máy chúng ta nhiều việc, bạn có thấy vất vả không?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "네, 공장장님. 괜찮습니다.",
+      "vietnamese": "Vâng, thưa trưởng nhà máy. Tôi ổn."
+    },
+    {
+      "speaker": "공장장님",
+      "korean": "다행이네요. 마두 씨는 항상 성실하게 일해서 참 좋아요. 너무 힘들면 말해요.",
+      "vietnamese": "Thật may. Tôi rất thích bạn luôn làm việc chăm chỉ. Nếu quá vất vả thì hãy nói nhé."
+    },
+    {
+      "speaker": "마두",
+      "korean": "감사합니다. 앞으로도 열심히 하겠습니다.",
+      "vietnamese": "Cảm ơn. Tôi sẽ tiếp tục làm việc chăm chỉ."
+    },
+    {
+      "speaker": "공장장님",
+      "korean": "마두 씨의 긍정적인 태도가 참 좋아요. 마두 씨가 우리하고 오래 같이 일하면 좋겠어요.",
+      "vietnamese": "Tôi rất thích thái độ tích cực của bạn. Tôi hy vọng bạn có thể làm việc với chúng tôi lâu dài."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨는 공장 일이 힘들어요?",
+      "vietnamese_question": "Madhu có thấy công việc ở nhà máy vất vả không?",
+      "korean_answer": "아니요, 괜찮다고 했어요.",
+      "vietnamese_answer": "Không, cậu ấy nói là ổn."
+    },
+    {
+      "korean_question": "공장장님은 마두 씨의 어떤 태도를 칭찬했어요?",
+      "vietnamese_question": "Trưởng nhà máy khen thái độ gì của Madhu?",
+      "korean_answer": "긍정적인 태도와 성실하게 일하는 태도를 칭찬했어요.",
+      "vietnamese_answer": "Khen thái độ tích cực và chăm chỉ làm việc của Madhu."
+    }
+  ]
+ }
+ ]
+
