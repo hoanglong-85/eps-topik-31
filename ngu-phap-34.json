@@ -1,0 +1,22 @@
+[{
+  "nguphap": "-던데요",
+  "loai": "동사/형용사 + -던데요",
+  "ynghia": "-던데요 được gắn vào động từ hoặc tính từ để truyền đạt một sự thật mới mà người nói đã **trực tiếp trải nghiệm**, đồng thời mong đợi phản ứng hoặc ý kiến của người nghe.",
+  "vidu": [
+    {"cau": "어제 본 영화가 재미있던데요.", "nghia": "Bộ phim tôi xem hôm qua thú vị lắm đấy."},
+    {"cau": "오전에 아궁 씨를 봤는데 정장을 입고 있던데요.", "nghia": "Sáng nay tôi gặp A-gung, cậu ấy mặc vest đấy."},
+    {"cau": "경치가 정말 아름답던데요.", "nghia": "Phong cảnh thật sự rất đẹp đấy."}
+  ],
+  "luat": "Động từ hoặc tính từ + -던데요. Dùng khi chia sẻ một phát hiện hoặc trải nghiệm cá nhân mới mẻ và mong chờ người nghe phản ứng hoặc đồng tình."
+},
+{
+  "nguphap": "-(느)ㄴ다고/다고 하다",
+  "loai": "Động từ/ Tính từ + -(느)ㄴ다고/다고 하다, Danh từ + (이)라고 하다",
+  "ynghia": "‘-(느)ㄴ다고/다고 하다’ được gắn vào động từ hoặc tính từ để truyền đạt lại một sự việc, thông tin mà người nói nghe được từ người khác. Khi dùng với danh từ thì đổi thành ‘(이)라고 하다’.",
+  "vidu": [
+    { "cau": "내일 모두 성희롱 예방 교육을 받아야 한다고 해요.", "nghia": "Nghe nói ngày mai mọi người phải tham gia buổi giáo dục phòng tránh quấy rối tình dục." },
+    { "cau": "출퇴근 시간에는 대중교통을 이용하는 것이 편리하다고 해요.", "nghia": "Nghe nói vào giờ đi làm và tan ca thì sử dụng phương tiện công cộng tiện lợi hơn." },
+    { "cau": "어제 잠을 못 잤다고 해요.", "nghia": "Nghe nói hôm qua (cô ấy) không ngủ được." }
+  ],
+  "luat": "Động từ có patchim + -는다고 하다 (먹다 → 먹는다고 하다); Động từ không patchim hoặc patchim ㄹ + -ㄴ다고 하다 (오다 → 온다고 하다, 만들다 → 만든다고 하다); Tính từ + -다고 하다 (맛있다 → 맛있다고 하다, 바쁘다 → 바쁘다고 하다); Danh từ + (이)라고 하다."
+}]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": {
+      "korean": "직장 내 성희롱",
+      "vietnamese": "Quấy rối tình dục ở nơi làm việc"
+    },
+    "data": [
+      {
+        "korean": "직장 내 성희롱은 성에 관련된 말과 행동으로 상대방에게 불쾌감이나 굴욕감 등을 주거나 고용상 불이익을 주는 등의 피해를 입히는 행위를 말합니다. 성희롱에는 음란한 농담, 외모에 대한 비유나 평가 등의 언어적 행위뿐만 아니라 음란한 사진이나 그림, 낙서 등을 게시하거나 보여 주는 등의 시각적 행위, 회식이나 야유회 자리에서 술을 따르도록 강요하는 행위 등이 모두 포함됩니다.",
+        "vietnamese": "Quấy rối tình dục ở nơi làm việc là những hành vi khiến cho đối phương cảm thấy khó chịu, nhục nhã bằng những lời nói và hành động liên quan đến giới tính hoặc gây ra tổn hại cho họ trong công việc. Quấy rối tình dục không chỉ là những câu đùa cợt khiếm nhã hay hành vi, lời nói so sánh, đánh giá về ngoại hình mà còn bao gồm cả những hành vi mang tính thị giác như bắt người khác xem tranh ảnh đồi trụy. Ngoài ra, hành vi cưỡng ép bắt đối phương uống rượu trong buổi tiệc công ty hay dã ngoại cũng là quấy rối tình dục."
+      },
+      {
+        "korean": "직장 내 성희롱이 발생하면, 절차에 따라 신고한 후 피해자는 보호하고 가해자는 적절히 조치해야 합니다. 가해자는 형사 처벌이나 손해배상과 같은 법적 처벌을 받게 될 뿐만 아니라 도덕적 비난이나 명예 손상과 같은 사회적 처벌을 받을 수 있습니다. 또한 직장에서는 경고나 감봉, 직위 해제, 해고 등과 같은 처벌을 받게 됩니다.",
+        "vietnamese": "Nếu xảy ra quấy rối tình dục ở nơi làm việc thì sau khi khai báo theo trình tự phải bảo vệ cho người bị hại và xử lí thích đáng kẻ phạm tội. Kẻ phạm tội quấy rối tình dục không những bị xử phạt hình sự hay xử phạt theo pháp luật bằng cách bồi thường tổn hại mà còn có thể bị xã hội phê phán về mặt đạo đức hay bị tổn hại danh dự. Thậm chí kẻ phạm tội còn phải chịu những hình thức xử phạt khác ở công ty như cảnh cáo, cắt giảm lương, giáng chức hay bị sa thải."
+      },
+      {
+        "korean": "직장 내 성희롱을 예방하기 위해서는 서로 존중하고 예의를 지키며, 성적인 언어나 행동을 삼가야 합니다. 상대방의 동의 없이 성적인 언어나 행동으로 상대방을 모욕하거나 불편하게 만드는 행위를 해서는 안 됩니다. 성희롱은 상대방의 인격과 존엄성을 침해하는 행위로 이를 예방하는 것은 안전한 근무 환경을 조성하는 데 도움이 됩니다.",
+        "vietnamese": "Nếu muốn phòng tránh quấy rối tình dục ở nơi làm việc thì phải tuân thủ phép lịch sự, tôn trọng lẫn nhau và cẩn thận những lời nói hay hành động liên quan đến giới tính. Không được khiến đối phương cảm thấy nhục nhã hay xấu hổ bằng những lời nói hoặc hành động mà họ không cho phép. Quấy rối tình dục là hành động gây tổn hại đến nhân cách và tôn nghiêm của đối phương nên việc phòng tránh nó sẽ góp phần tạo ra một môi trường làm việc an toàn."
+      }
+    ],
+    "voca": {
+      "신경 쓰다": "Để ý, quan tâm",
+      "불이익을 주다": "Gây bất lợi",
+      "피해를 입히다": "Bị thiệt hại",
+      "행위": "Hành vi",
+      "음란하다": "Khiêu dâm",
+      "외모": "Ngoại hình",
+      "비유": "Sự so sánh",
+      "평가": "Đánh giá, nhận xét",
+      "낙서": "Viết linh tinh, vẽ bậy",
+      "게시하다": "Đưa lên, đăng lên, công bố lên",
+      "시각적": "Liên quan đến thị giác",
+      "따르다": "Tuân theo, tuân thủ",
+      "삼가다": "Dè dặt, cẩn trọng",
+      "모욕하다": "Lăng mạ, sỉ nhục, xúc phạm",
+      "인격": "Nhân cách",
+      "존엄성": "Tính tôn nghiêm",
+      "침해하다": "Xâm hại, lấn quyền",
+      "조성하다": "Tạo thành, cấu thành, xây dựng",
+      "도움이 되다": "Giúp ích, có ích",
+      "심각하다": "Trầm trọng, nghiêm trọng"
+    }
+  }
+]
