@@ -1,0 +1,48 @@
+[
+  {
+    "title": {
+      "korean": "한국의 회식 문화",
+      "vietnamese": "Văn hóa tiệc công ty ở Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "회식은 직장에서 동료들 간에 유대감을 형성하고 친목을 도모하기 위해 갖는 식사 모임으로 보통 하루 업무가 끝난 저녁 시간에 진행됩니다. 회식에서는 참석한 회사 사람들과 함께 음식을 먹으며 즐겁게 시간을 보냅니다.",
+        "vietnamese": "Tiệc công ty là buổi gặp gỡ ăn uống được tổ chức vào buổi tối khi công việc của một ngày kết thúc nhằm nâng cao sự thân thiết và tạo ra sự đoàn kết giữa các đồng nghiệp ở nơi làm việc. Những người tham gia tiệc công ty sẽ cùng nhau ăn uống và trải qua quãng thời gian vui vẻ."
+      },
+      {
+        "korean": "회식 자리에서는 보통 업무와 관련된 대화보다는 개인적인 이야기나 취미, 일상생활에 관한 대화를 나눕니다. 이러한 한국의 회식 문화는 직장 내에서 구성원 간의 관계를 강화하고 팀워크를 다지는 중요한 사회적 활동입니다.",
+        "vietnamese": "Trong tiệc công ty, mọi người thường chia sẻ những câu chuyện liên quan đến cuộc sống cá nhân hay sở thích chứ ít khi nói những chuyện liên quan đến công việc. Văn hóa tiệc công ty của Hàn Quốc là một hoạt động mang tính xã hội quan trọng tăng cường mối quan hệ của các thành viên đồng thời xây dựng nền tảng cho những hoạt động đội nhóm ở nơi làm việc."
+      },
+      {
+        "korean": "회식에서는 대개 식사와 함께 술이 제공되며, 상사나 동료의 권유로 술잔을 함께 나누는 것이 예의로 여겨지기도 합니다. 그러나 종교적인 이유 등으로 술을 마시지 않는 경우에는 예의를 지켜 거절해도 됩니다. 요즘 들어서는 회식을 점심시간에 하기도 하고, 음주보다는 다양한 활동이나 식사 중심의 회식으로 변화하는 추세이며, 개인적인 상황이나 선호도에 따라 회식에 참여하는 정도가 다르기도 합니다.",
+        "vietnamese": "Trong tiệc công ty, hầu hết mọi người sẽ dùng bữa cùng với uống rượu. Việc uống rượu cùng cấp trên hoặc đồng nghiệp được xem là một hành động lịch sự. Tuy nhiên, nếu không thể uống rượu bởi những lý do như tôn giáo thì hãy từ chối một cách lịch sự. Dạo gần đây, tiệc công ty cũng có lúc được tổ chức vào giờ ăn trưa. So với uống rượu, việc tổ chức tiệc công ty với những hoạt động đa dạng hay tập trung vào ăn uống đang dần trở thành xu thế. Ngoài ra, việc tham gia tiệc công ty cũng sẽ khác nhau tùy vào tình hình hay sở thích của cá nhân."
+      },
+      {
+        "korean": "술과 함께하는 한국의 회식 문화에 익숙하지 않은 외국인 근로자들은 비슷한 문화권에서 온 근로자들끼리 별도의 모임을 열어서 음식과 차를 나누며 즐거운 회식을 하기도 합니다.",
+        "vietnamese": "Những người lao động nước ngoài chưa quen với văn hóa tiệc công ty uống rượu của Hàn Quốc thì cũng có thể tổ chức những buổi gặp gỡ riêng với người nước ngoài có cùng nền tảng văn hóa, rồi uống trà và dùng bữa giống như một buổi tiệc công ty thực thụ."
+      }
+    ],
+    "voca": {
+      "유대감": "Tình cảm thân thiết, cảm giác thân thuộc",
+      "형성하다": "Hình thành",
+      "친목": "Thân tình, sự thân thiết",
+      "도모하다": "Mưu đồ, lên kế hoạch",
+      "진행되다": "Được tiến hành",
+      "나누다": "Phân chia, chia ra",
+      "구성원": "Thành viên",
+      "강화하다": "Tăng cường, đẩy mạnh",
+      "팀워크를 다지다": "Củng cố tinh thần đồng đội, làm việc nhóm",
+      "사회적": "Mang tính xã hội",
+      "제공되다": "Được cung cấp",
+      "권유": "Sự khuyên nhủ, khuyên bảo",
+      "여기다": "Cho rằng, xem như là, nghĩ là",
+      "종교적": "Tính tôn giáo",
+      "거절하다": "Từ chối",
+      "들어서다": "Bước vào, được dựng lên, được thiết lập",
+      "음주": "Việc uống bia rượu",
+      "중심": "Trọng tâm",
+      "변화하다": "Biến hóa, thay đổi",
+      "추세": "Xu thế, khuynh hướng"
+    }
+  }
+]

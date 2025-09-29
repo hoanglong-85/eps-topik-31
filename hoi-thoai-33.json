@@ -1,0 +1,97 @@
+[
+    {
+        "audio": "hoi-thoai-33-1.mp3",
+        "hinhanh": "hoi-thoai-33-1.jpg",
+        "hoithoai": [
+            {
+                "speaker": "아궁",
+                "korean": "유수프 씨 회사는 분위기가 어때요?",
+                "vietnamese": "Yusuf, công ty của bạn có bầu không khí như thế nào?"
+            },
+            {
+                "speaker": "유수프",
+                "korean": "좋은 편이에요. 서로 생일도 챙겨 주고 같이 맛있는 것도 자주 먹으러 가요.",
+                "vietnamese": "Khá tốt. Chúng tôi hay chúc mừng sinh nhật cho nhau và thường đi ăn ngon cùng nhau."
+            },
+            {
+                "speaker": "아궁",
+                "korean": "윗분들은 어떠세요?",
+                "vietnamese": "Cấp trên thì sao?"
+            },
+            {
+                "speaker": "유수프",
+                "korean": "모두 친절하세요. 아궁 씨 회사는 어때요?",
+                "vietnamese": "Mọi người đều thân thiện. Còn công ty của Agung thì sao?"
+            },
+            {
+                "speaker": "아궁",
+                "korean": "우리 회사는 모임이 별로 없어요. 그런데 회사에서 외국인 근로자들을 많이 격려하고 배려해 줘요. 아플 때는 반장님이 병원에 같이 가 주세요.",
+                "vietnamese": "Công ty tôi không có nhiều buổi gặp gỡ. Nhưng công ty rất động viên và quan tâm đến người lao động nước ngoài. Khi tôi bị ốm, banjangnim còn đi cùng tôi đến bệnh viện."
+            }
+        ],
+        "questions": [
+            {
+                "korean_question": "유수프 씨 회사 분위기는 어때요?",
+                "vietnamese_question": "Bầu không khí ở công ty của Yusuf như thế nào?",
+                "korean_answer": "좋은 편이에요. 서로 생일도 챙겨 주고 같이 맛있는 것도 자주 먹으러 가요.",
+                "vietnamese_answer": "Khá tốt. Họ chúc mừng sinh nhật cho nhau và thường đi ăn ngon cùng nhau."
+            },
+            {
+                "korean_question": "아궁 씨 회사는 모임이 많아요?",
+                "vietnamese_question": "Công ty của Agung có nhiều buổi gặp gỡ không?",
+                "korean_answer": "우리 회사는 모임이 별로 없어요.",
+                "vietnamese_answer": "Công ty tôi không có nhiều buổi gặp gỡ."
+            }
+        ]
+    },
+    {
+        "audio": "hoi-thoai-33-2.mp3",
+        "hinhanh": "hoi-thoai-33-2.jpg",
+        "hoithoai": [
+            {
+                "speaker": "반장님",
+                "korean": "칼로 씨, 기분이 안 좋아 보이는데 무슨 일 있어요?",
+                "vietnamese": "Carlo, trông bạn không vui. Có chuyện gì sao?"
+            },
+            {
+                "speaker": "칼로",
+                "korean": "부장님이 저한테 자꾸 반말을 하셔서요.",
+                "vietnamese": "Bujangnim cứ nói chuyện không kính ngữ với tôi."
+            },
+            {
+                "speaker": "반장님",
+                "korean": "부장님이 칼로 씨를 친하게 생각해서 반말하시는 거예요. 한국에서는 친한 사람에게 반말을 할 수도 있거든요. 부모님께 반말을 하는 사람도 있어요.",
+                "vietnamese": "Bujangnim nói chuyện không kính ngữ vì ông ấy thấy gần gũi với bạn. Ở Hàn Quốc, người ta có thể dùng 반말 với người thân thiết. Có người còn dùng 반말 với bố mẹ mình."
+            },
+            {
+                "speaker": "칼로",
+                "korean": "그래요? 그럼 부장님이 저를 무시한 게 아니었네요. 그래도 가끔 너무 무섭게 말씀하세요.",
+                "vietnamese": "Thật sao? Vậy là bujangnim không hạ thấp tôi. Nhưng thỉnh thoảng ông ấy nói rất dữ."
+            },
+            {
+                "speaker": "반장님",
+                "korean": "일할 때 소리 지르시는 거요? 사고가 나면 안 되니까 그러시는 거예요.",
+                "vietnamese": "Bạn nói về việc ông ấy la bạn khi làm việc phải không? Ông ấy làm vậy để tránh tai nạn."
+            },
+            {
+                "speaker": "칼로",
+                "korean": "아, 제가 부장님을 오해했네요.",
+                "vietnamese": "À, tôi đã hiểu lầm bujangnim."
+            }
+        ],
+        "questions": [
+            {
+                "korean_question": "부장님은 칼로 씨를 무시해서 반말을 해요?",
+                "vietnamese_question": "Bujangnim nói chuyện không kính ngữ với Carlo vì hạ thấp anh ấy sao?",
+                "korean_answer": "아니요, 부장님이 칼로 씨를 친하게 생각해서 반말을 하는 거예요.",
+                "vietnamese_answer": "Không, bujangnim nói chuyện không kính ngữ vì thấy Carlo gần gũi."
+            },
+            {
+                "korean_question": "왜 부장님은 일할 때 소리 질러요?",
+                "vietnamese_question": "Tại sao bujangnim lại la khi làm việc?",
+                "korean_answer": "사고가 나면 안 되니까 일할 때 소리 지르시는 거예요.",
+                "vietnamese_answer": "Ông ấy la khi làm việc để tránh tai nạn."
+            }
+        ]
+    }
+]

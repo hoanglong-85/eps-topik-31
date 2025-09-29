@@ -1,0 +1,22 @@
+[{
+  "nguphap": "-는/(으)ㄴ 편이다",
+  "loai": "동사/형용사 + -는/(으)ㄴ 편이다",
+  "ynghia": "-는/(으)ㄴ 편이다 được gắn vào động từ hoặc tính từ để diễn tả sự việc thường như vậy hoặc thuộc về một xu hướng nào đó, nhưng không khẳng định một cách tuyệt đối.",
+  "vidu": [
+    {"cau": "저는 고향에 자주 가는 편이에요.", "nghia": "Tôi thuộc dạng thường xuyên về quê."},
+    {"cau": "우리 회사는 분위기가 좋은 편이에요.", "nghia": "Công ty chúng tôi thuộc dạng có bầu không khí tốt."},
+    {"cau": "이 식당은 값이 비싼 편이네요.", "nghia": "Nhà hàng này thuộc dạng giá khá đắt."}
+  ],
+  "luat": "Động từ, 있다/없다 + -는 편이다 (잘하다 → 잘하는 편이다, 맛있다 → 맛있는 편이다). Tính từ có 받침 + -은 편이다 (많다 → 많은 편이다). Tính từ không 받침 hoặc 받침 ㄹ + -ㄴ 편이다 (크다 → 큰 편이다, 힘들다 → 힘든 편이다). Dùng khi muốn nói thuộc dạng, khá, tương đối thay vì khẳng định tuyệt đối."
+},
+{
+  "nguphap": "-거든요",
+  "loai": "동사/형용사 + -거든요",
+  "ynghia": "-거든요 được gắn vào động từ hoặc tính từ để giải thích lý do, hoặc cung cấp thông tin mà người nghe có thể chưa biết, giống như đang chia sẻ hay giải thích thêm.",
+  "vidu": [
+    {"cau": "이 식당은 인기가 많아요. 음식이 싸고 맛있거든요.", "nghia": "Nhà hàng này rất nổi tiếng. Vì đồ ăn vừa rẻ vừa ngon mà."},
+    {"cau": "회사 동료들이 모두 아궁 씨를 좋아해요. 아궁 씨가 성격이 좋거든요.", "nghia": "Các đồng nghiệp trong công ty đều thích A-gung. Vì tính cách của cậu ấy rất tốt mà."},
+    {"cau": "방이 정말 깨끗하네요. 아침에 청소를 했거든요.", "nghia": "Phòng thật sự rất sạch. Vì tôi đã dọn dẹp vào buổi sáng mà."}
+  ],
+  "luat": "Động từ hoặc tính từ + -거든요. Dùng khi muốn giải thích lý do hoặc cung cấp thông tin mà người nghe có thể chưa biết, giống như đang tiết lộ hoặc bật mí một sự thật."
+}]
