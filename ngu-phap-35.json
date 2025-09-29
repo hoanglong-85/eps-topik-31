@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-(으)ㅂ시다",
+  "loai": "Động từ + -(으)ㅂ시다",
+  "ynghia": "‘-(으)ㅂ시다’ được gắn vào động từ để đưa ra lời đề nghị cùng làm một việc nào đó trong tình huống trang trọng, lịch sự. Thường dùng khi muốn rủ rê hoặc kêu gọi mọi người cùng hành động.",
+  "vidu": [
+    { "cau": "작업할 때는 반드시 작업복을 입읍시다.", "nghia": "Khi làm việc, chúng ta hãy nhất định mặc đồ bảo hộ." },
+    { "cau": "작업이 끝나면 작업장을 정리합시다.", "nghia": "Khi kết thúc công việc, chúng ta hãy dọn dẹp xưởng." },
+    { "cau": "주말에 다 같이 고향 음식을 만들어 먹읍시다.", "nghia": "Cuối tuần này chúng ta hãy cùng làm và ăn món ăn quê hương." },
+    { "cau": "네, 이제 그만 퇴근합시다.", "nghia": "Vâng, bây giờ chúng ta hãy cùng tan làm thôi." }
+  ],
+  "luat": "Động từ có patchim + -읍시다 (먹다 → 먹읍시다); Động từ không patchim hoặc patchim ㄹ + -ㅂ시다 (보다 → 봅시다, 만들다 → 만듭시다). Dùng trong tình huống trang trọng để đề xuất làm việc cùng nhau. Cũng có thể dùng để trả lời câu hỏi có ‘-(으)ㄹ까요?’, mang nghĩa đồng ý thực hiện hành động được đề nghị."
+},
+{
+  "nguphap": "-(으)ㄹ",
+  "loai": "Động từ/형용사 + -(으)ㄹ",
+  "ynghia": "‘-(으)ㄹ’ được gắn vào động từ hoặc tính từ để bổ nghĩa cho danh từ phía sau, diễn tả sự việc **sẽ xảy ra trong tương lai**, hoặc **suy đoán, ý định** về việc chưa xảy ra.",
+  "vidu": [
+    { "cau": "제품을 담을 상자가 필요해요.", "nghia": "Tôi cần một cái hộp để đựng sản phẩm." },
+    { "cau": "작업에 사용할 공구를 가져오세요.", "nghia": "Hãy mang theo dụng cụ sẽ sử dụng cho công việc." },
+    { "cau": "동생과 같이 살 집을 찾고 있어요.", "nghia": "Tôi đang tìm ngôi nhà sẽ sống cùng em trai." }
+  ],
+  "luat": "Động từ hoặc tính từ có patchim + -을 (담다 → 담을); Không patchim hoặc patchim ㄹ + -ㄹ (주다 → 줄, 만들다 → 만들). Dùng để mô tả danh từ mang nghĩa việc **sắp xảy ra, dự định** hoặc **dự đoán** về sự việc chưa diễn ra."
+}]

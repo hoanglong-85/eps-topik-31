@@ -1,0 +1,97 @@
+[
+    {
+        "audio": "hoi-thoai-35-1.mp3",
+        "hinhanh": "hoi-thoai-35-1.jpg",
+        "hoithoai": [
+            {
+                "speaker": "자하라",
+                "korean": "작업장이 너무 엉망이네요. 냄새도 심하고요.",
+                "vietnamese": "Nơi làm việc bừa bộn quá, mùi cũng rất nặng."
+            },
+            {
+                "speaker": "마두",
+                "korean": "어제 늦게까지 작업을 했어요. 너무 피곤해서 정리를 하나도 못 하고 퇴근했어요.",
+                "vietnamese": "Hôm qua làm việc đến khuya. Quá mệt nên không dọn dẹp gì trước khi về."
+            },
+            {
+                "speaker": "자하라",
+                "korean": "일하기 전에 먼저 청소부터 합시다.",
+                "vietnamese": "Trước khi làm việc, hãy dọn dẹp trước đã."
+            },
+            {
+                "speaker": "마두",
+                "korean": "네, 제가 얼른 가서 걸레를 가져올게요.",
+                "vietnamese": "Được, tôi sẽ đi lấy giẻ lau ngay."
+            },
+            {
+                "speaker": "자하라",
+                "korean": "그럼 저는 작업장을 쓸고 있을게요.",
+                "vietnamese": "Vậy tôi sẽ quét nơi làm việc."
+            }
+        ],
+        "questions": [
+            {
+                "korean_question": "작업장은 지금 어때요?",
+                "vietnamese_question": "Nơi làm việc bây giờ như thế nào?",
+                "korean_answer": "작업장이 엉망이고 냄새가 심해요.",
+                "vietnamese_answer": "Nơi làm việc bừa bộn và mùi rất nặng."
+            },
+            {
+                "korean_question": "자하라 씨와 마두 씨는 무엇을 할 거예요?",
+                "vietnamese_question": "Zahara và Madhu sẽ làm gì?",
+                "korean_answer": "청소를 할 거예요. 마두 씨는 걸레를 가져오고 자하라 씨는 작업장을 쓸 거예요.",
+                "vietnamese_answer": "Họ sẽ dọn dẹp. Madhu đi lấy giẻ lau, Zahara sẽ quét nơi làm việc."
+            }
+        ]
+    },
+    {
+        "audio": "hoi-thoai-35-2.mp3",
+        "hinhanh": "hoi-thoai-35-2.jpg",
+        "hoithoai": [
+            {
+                "speaker": "아궁",
+                "korean": "안녕하세요? 내일부터 창고 관리를 담당할 아궁이라고 합니다.",
+                "vietnamese": "Xin chào, tôi là Agung, sẽ phụ trách quản lý kho bắt đầu từ ngày mai."
+            },
+            {
+                "speaker": "부장님",
+                "korean": "반갑습니다. 창고 관리를 해 봤어요?",
+                "vietnamese": "Rất vui được gặp. Bạn đã từng quản lý kho chưa?"
+            },
+            {
+                "speaker": "아궁",
+                "korean": "아니요, 안 해 봤지만 열심히 하겠습니다.",
+                "vietnamese": "Chưa, nhưng tôi sẽ làm hết sức."
+            },
+            {
+                "speaker": "부장님",
+                "korean": "창고 관리에서는 재고를 파악하는 게 중요해요. 그리고 냉동 창고는 적정 온도를 유지하는 게 아주 중요하고요.",
+                "vietnamese": "Việc kiểm kê hàng tồn kho rất quan trọng trong quản lý kho. Và duy trì nhiệt độ phù hợp ở kho đông lạnh cũng rất quan trọng."
+            },
+            {
+                "speaker": "아궁",
+                "korean": "네, 알겠습니다.",
+                "vietnamese": "Vâng, tôi hiểu rồi."
+            },
+            {
+                "speaker": "부장님",
+                "korean": "내일 창고로 들어올 물건이 많아요. 잘 정리해 주세요. 앞으로 잘 부탁해요.",
+                "vietnamese": "Ngày mai sẽ có nhiều hàng vào kho. Hãy sắp xếp gọn gàng nhé. Rất mong được hợp tác với bạn."
+            }
+        ],
+        "questions": [
+            {
+                "korean_question": "아궁 씨는 내일부터 무슨 일을 할 거예요?",
+                "vietnamese_question": "Agung sẽ làm gì bắt đầu từ ngày mai?",
+                "korean_answer": "내일부터 창고 관리를 할 거예요.",
+                "vietnamese_answer": "Bắt đầu từ ngày mai, Agung sẽ quản lý kho."
+            },
+            {
+                "korean_question": "냉동 창고를 관리할 때 중요한 것이 뭐예요?",
+                "vietnamese_question": "Điều gì quan trọng khi quản lý kho đông lạnh?",
+                "korean_answer": "냉동 창고는 적정 온도를 유지하는 것이 중요해요.",
+                "vietnamese_answer": "Duy trì nhiệt độ phù hợp ở kho đông lạnh là quan trọng."
+            }
+        ]
+    }
+]

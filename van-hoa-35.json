@@ -1,0 +1,51 @@
+[
+  {
+    "title": {
+      "korean": "한국의 산업 구조",
+      "vietnamese": "Cấu trúc của kinh tế Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "한국의 산업 구조는 기술 혁신과 글로벌화에 따라 지속적으로 변화하고 있습니다. 과거에는 농업과 경공업 중심의 산업 구조였지만, 현재는 제조업과 서비스업 등 고부가가치 산업의 비중이 높아졌습니다.",
+        "vietnamese": "Cấu trúc của kinh tế Hàn Quốc đang thay đổi liên tục theo sự đổi mới kỹ thuật và toàn cầu hóa. Trong quá khứ, nông nghiệp và công nghiệp nhẹ là trung tâm của ngành kinh tế Hàn Quốc nhưng hiện nay, tỷ trọng của ngành sản xuất chế tạo, dịch vụ và những ngành có giá trị cao đã tăng lên."
+      },
+      {
+        "korean": "농업, 어업, 임업 등의 1차 산업은 한국의 전체 GDP에서 차지하는 비중이 상대적으로 낮지만, 국민의 기본생활에 필요한 농산물, 수산물, 임산물 등의 생산에서 여전히 중요한 역할을 하고 있습니다.",
+        "vietnamese": "Những ngành thuộc khu vực kinh tế thứ nhất như nông nghiệp, ngư nghiệp hay lâm nghiệp chiếm tỉ trọng tương đối thấp trong tổng GDP của Hàn Quốc. Tuy nhiên chúng vẫn đóng vai trò quan trọng trong việc sản xuất nông sản, hải sản hay lâm sản cần thiết cho cuộc sống cơ bản của người dân."
+      },
+      {
+        "korean": "현재 한국은 전자, 자동차, 조선, 화학 산업 등에서 세계적인 경쟁력을 가지고 있습니다. 특히 삼성, 현대, LG와 같은 대기업들이 글로벌 시장에서 중요한 위치를 차지하고 있습니다. 또한 IT와 소프트웨어 산업의 발전을 바탕으로 금융, 교육, 의료, 관광 등의 서비스 산업이 한국의 디지털 경제 발전을 이끌고 있습니다. 그리고 한국의 K-pop, 드라마, 영화 등의 세계적 인기에 힘입어 문화 콘텐츠 산업도 큰 주목을 받고 있습니다.",
+        "vietnamese": "Hàn Quốc hiện nay đang có năng lực cạnh tranh mạnh mẽ mang tầm quốc tế trong những ngành điện tử, ô tô, đóng tàu hay công nghiệp hóa học. Đặc biệt là những doanh nghiệp lớn như Samsung, Hyundai hay LG đang giữ vị trí quan trọng trên thị trường toàn cầu. Hơn nữa, những ngành công nghiệp dịch vụ như tín dụng, giáo dục, y tế hay du lịch dựa trên nền tảng của sự phát triển IT và phần mềm thì cũng đang dẫn dắt sự phát triển của ngành kinh tế kỹ thuật số của Hàn Quốc. Và ngành công nghiệp văn hóa Hàn Quốc với âm nhạc, phim ảnh nổi tiếng cũng đang nhận được sự quan tâm rất lớn."
+      },
+      {
+        "korean": "최근에는 4차 산업 혁명 시대를 대비하여 인공지능, 빅데이터, 자율주행차, 로봇 등의 기술 개발에 많은 투자를 하고 있으며, 이를 통해 새로운 성장 동력을 찾고자 노력하고 있습니다. 이러한 산업 구조의 변화는 한국 경제의 국제 경쟁력을 높이는 데 기여하고 있습니다.",
+        "vietnamese": "Dạo gần đây, Hàn Quốc đang đầu tư rất nhiều vào việc phát triển kỹ thuật trí tuệ nhân tạo, dữ liệu lớn, xe tự lái hay robot để chuẩn bị cho thời kỳ cách mạng công nghiệp lần thứ 4. Thông qua điều này, Hàn Quốc đang nỗ lực để tìm ra động lực tăng trưởng mới. Sự thay đổi của cấu trúc kinh tế Hàn Quốc như vậy đang đóng góp vào việc nâng cao năng lực cạnh tranh của nền kinh tế Hàn Quốc trên thị trường thế giới."
+      }
+    ],
+    "voca": {
+      "기술 혁신": "Đổi mới kỹ thuật",
+      "글로벌화": "Toàn cầu hóa",
+      "농업": "Nông nghiệp",
+      "경공업": "Công nghiệp nhẹ",
+      "제조업": "Ngành sản xuất, công nghiệp chế tạo",
+      "서비스업": "Ngành dịch vụ",
+      "고부가가치 산업": "Ngành có giá trị gia tăng cao",
+      "1차 산업": "Ngành kinh tế thứ nhất",
+      "전자": "Điện tử",
+      "자동차": "Ô tô",
+      "조선": "Đóng tàu",
+      "화학 산업": "Công nghiệp hóa chất",
+      "대기업": "Doanh nghiệp lớn",
+      "IT": "Công nghệ thông tin",
+      "디지털 경제": "Kinh tế kỹ thuật số",
+      "문화 콘텐츠 산업": "Ngành công nghiệp nội dung văn hóa",
+      "4차 산업 혁명": "Cách mạng công nghiệp lần thứ 4",
+      "인공지능": "Trí tuệ nhân tạo",
+      "빅데이터": "Dữ liệu lớn",
+      "자율주행차": "Xe tự lái",
+      "로봇": "Robot",
+      "성장 동력": "Động lực tăng trưởng",
+      "국제 경쟁력": "Năng lực cạnh tranh quốc tế"
+    }
+  }
+]
